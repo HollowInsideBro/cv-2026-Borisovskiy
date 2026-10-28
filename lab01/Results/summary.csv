@@ -1,0 +1,18 @@
+metric,value
+variant,2
+n_files,800
+n_breeds,4
+n_cat_breeds,2
+n_dog_breeds,2
+n_cat_images,400
+n_dog_images,400
+width_min,183
+width_median,500.0
+width_max,679
+height_min,200
+height_median,375.0
+height_max,798
+n_non_rgb,0
+n_jpg_not_jpeg,0
+n_with_xml,400
+breed_counts,Birman: 200; Siamese: 200; basset_hound: 200; keeshond: 200
