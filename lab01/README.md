@@ -17,7 +17,7 @@
 
 ## 4. Результаты
 
-Полная сводка: [summary.csv](results/summary.csv).
+Полная сводка: [summary.csv](Results/summary.csv).
 
 | Показатель | Значение |
 | --- | ---: |
@@ -31,9 +31,9 @@
 | С XML-боксом | 400 (50%) |
 | С trimap-маской | 800 |
 
-![По одному изображению каждой породы с боксом головы](results/samples_grid.png)
+![По одному изображению каждой породы с боксом головы](Results/samples_grid.png)
 
-Преобразования: [transforms.png](results/transforms.png).
+Преобразования: [transforms.png](Results/transforms.png).
 
 ## 5. Выводы
 
